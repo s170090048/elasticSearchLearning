@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.jason.elasticsearch.TestMain
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.825 s <<< FAILURE! - in com.jason.elasticsearch.TestMain
+testCreateIndex  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'restHighLevelClient' defined in class path resource [com/jason/elasticsearch/config/ElasticsearchConfig.class]: Post-processing of merged bean definition failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [org.elasticsearch.client.RestHighLevelClient] from ClassLoader [sun.misc.Launcher$AppClassLoader@42a57993]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.elasticsearch.client.RestHighLevelClient] from ClassLoader [sun.misc.Launcher$AppClassLoader@42a57993]
+Caused by: java.lang.NoClassDefFoundError: org/elasticsearch/client/Cancellable
+Caused by: java.lang.ClassNotFoundException: org.elasticsearch.client.Cancellable
+

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dde968d5-d040-43c9-81ac-30531e79b6cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1XqZp8PSqaMi5qDT7vGYk9z6yrO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jason.elasticsearch" />
+      <recent name="com.jason" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s1700\IdeaProjects\elasticSearchLearning\src\test" />
+      <recent name="C:\Users\s1700\IdeaProjects\elasticSearchLearning\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestMain.testTermQuery">
+    <configuration name="TestMain.testAddDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elasticSearchLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.elasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.elasticsearch.TestMain" />
+      <option name="METHOD_NAME" value="testAddDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain.testDelDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elasticSearchLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.elasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.elasticsearch.TestMain" />
+      <option name="METHOD_NAME" value="testDelDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain.testSearchAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elasticSearchLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.elasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.elasticsearch.TestMain" />
+      <option name="METHOD_NAME" value="testSearchAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain.testTermQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elasticSearchLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.elasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.elasticsearch.TestMain" />
+      <option name="METHOD_NAME" value="testTermQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain.updateDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elasticSearchLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jason.elasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.jason.elasticsearch.TestMain" />
+      <option name="METHOD_NAME" value="updateDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestMain.testTermQuery" />
+        <item itemvalue="JUnit.TestMain.testSearchAll" />
+        <item itemvalue="JUnit.TestMain.testAddDoc" />
+        <item itemvalue="JUnit.TestMain.testDelDoc" />
+        <item itemvalue="JUnit.TestMain.updateDoc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dde968d5-d040-43c9-81ac-30531e79b6cb" name="Default Changelist" comment="" />
+      <created>1581775764932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581775764932</updated>
+      <workItem from="1581775768814" duration="6764000" />
+      <workItem from="1583730350679" duration="5190000" />
+      <workItem from="1584190835762" duration="1358000" />
+      <workItem from="1584192216709" duration="8048000" />
+      <workItem from="1584247148990" duration="25416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581778516336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1581778516336" />
+    <state x="548" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1581778517989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1581778517989" />
+    <state width="1493" height="311" key="GridCell.Tab.0.bottom" timestamp="1584357887179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="311" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584357887179" />
+    <state width="1493" height="311" key="GridCell.Tab.0.center" timestamp="1584357887179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="311" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584357887179" />
+    <state width="1493" height="311" key="GridCell.Tab.0.left" timestamp="1584357887179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="311" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584357887179" />
+    <state width="1493" height="311" key="GridCell.Tab.0.right" timestamp="1584357887179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="311" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584357887179" />
+    <state width="1493" height="201" key="GridCell.Tab.1.bottom" timestamp="1584357886557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584357886557" />
+    <state width="1493" height="201" key="GridCell.Tab.1.center" timestamp="1584357886557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584357886557" />
+    <state width="1493" height="201" key="GridCell.Tab.1.left" timestamp="1584357886557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584357886557" />
+    <state width="1493" height="201" key="GridCell.Tab.1.right" timestamp="1584357886557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584357886557" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1584281307646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1584281307646" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1584247209018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584247209018" />
+  </component>
+</project>

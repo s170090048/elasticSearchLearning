@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: el
+  data:
+    elasticsearch:
+      hostlist: localhost:127.0.0.1:9200
